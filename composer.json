@@ -1,0 +1,21 @@
+{
+    "name": "ryzen/lazyphp",
+    "description": "Core-Library Frame",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ryzen\\Lazyphp\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raju Choudhary",
+            "email": "razoo.choudhary@gmail.com"
+        }
+    ],
+    "require": {
+        "ryzen/core-library": "^2.0",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
