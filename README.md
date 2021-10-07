@@ -1,6 +1,6 @@
 ### LazyPHP
 
-##### Super powerful and lightweight Pre-Made Framework for Core-library
+##### lightweight Pre-Made Frame for Core-library
 
 ### Install
 
