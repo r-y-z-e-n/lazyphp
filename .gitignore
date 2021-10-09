@@ -2,3 +2,4 @@
 /vendor/
 .env
 /keys/
+composer.lock
