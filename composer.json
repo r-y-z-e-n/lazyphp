@@ -1,6 +1,6 @@
 {
     "name": "ryzen/lazyphp",
-    "description": "Core-Library Frame",
+    "description": "Core-Library Framework",
     "type": "project",
     "license": "MIT",
     "autoload": {
@@ -16,7 +16,7 @@
     ],
     "require": {
         "ryzen/oauth": "^1.0",
-        "ryzen/core-library": "^2.0",
+        "ryzen/core-library": "^3.0",
         "vlucas/phpdotenv": "^5.3",
         "ryzen/db-builder": "^1.0"
     }
