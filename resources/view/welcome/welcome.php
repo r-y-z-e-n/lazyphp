@@ -211,6 +211,7 @@
                     <h4 class="option--title">Get your local application to Real-World Application.</h4>
                 </li>
             </ul>
+            <center><p style="color: white; font-size: 1.5em;">v1.0.3</p></center>
         </div>
     </div>
 </div>
